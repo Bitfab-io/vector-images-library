@@ -1335,9 +1335,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="646.95331"
-     inkscape:cy="535.0005"
+     inkscape:zoom="0.93977569"
+     inkscape:cx="656.44694"
+     inkscape:cy="378.52222"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2687,7 +2687,7 @@
          style="font-size:10px"
          id="tspan7669">cables motor</tspan></text>
     <g
-       transform="translate(314.59426,-240.16442)"
+       transform="matrix(0.5016368,0,0,0.5016368,575.76411,85.838822)"
        id="layer1-88"
        inkscape:label="Layer 1">
       <g
@@ -2707,7 +2707,7 @@
       </g>
     </g>
     <g
-       transform="translate(364.04089,-238.5355)"
+       transform="matrix(0.5071366,0,0,0.5071366,565.44253,82.897329)"
        id="layer1-3"
        inkscape:label="Layer 1">
       <g
@@ -2729,7 +2729,7 @@
     <g
        inkscape:label="Layer 1"
        id="g8004"
-       transform="matrix(-1,0,0,1,1174.089,-240.16442)">
+       transform="matrix(-0.5016368,0,0,0.5016368,884.60259,85.838822)">
       <g
          id="g8006">
         <path
@@ -2743,6 +2743,46 @@
            cy="622.36218"
            cx="513.37952"
            id="circle8010"
+           style="fill:#000000;fill-opacity:1;stroke:#c7c7c7;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       inkscape:label="Layer 1"
+       id="g8012"
+       transform="matrix(0.5071366,0,0,0.5071366,527.44253,82.897329)">
+      <g
+         id="g8014">
+        <path
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:connector-curvature="0"
+           id="path8016"
+           d="m 371.73614,589.29228 62.25064,0.50508 c -12.07776,4.91231 -16.76366,9.71779 -21.08692,17.93021 -1.69526,6.97813 -3.54743,13.83859 0,24.74874 6.23146,12.41871 10.39713,14.41703 21.08692,19.19289 l -62.25064,0.50508 c -9.05224,-3.51285 -17.63237,-9.0303 -21.97083,-19.95051 -1.1524,-7.50067 -3.85284,-13.55935 0,-23.23351 4.31965,-8.55339 11.59072,-16.53167 21.97083,-19.69798 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:#c7c7c7;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle8018"
+           cx="381.04953"
+           cy="620.73328"
+           r="10.629921" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.5071366,0,0,0.5071366,489.44253,82.897329)"
+       id="g8020"
+       inkscape:label="Layer 1">
+      <g
+         id="g8022">
+        <path
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 371.73614,589.29228 62.25064,0.50508 c -12.07776,4.91231 -16.76366,9.71779 -21.08692,17.93021 -1.69526,6.97813 -3.54743,13.83859 0,24.74874 6.23146,12.41871 10.39713,14.41703 21.08692,19.19289 l -62.25064,0.50508 c -9.05224,-3.51285 -17.63237,-9.0303 -21.97083,-19.95051 -1.1524,-7.50067 -3.85284,-13.55935 0,-23.23351 4.31965,-8.55339 11.59072,-16.53167 21.97083,-19.69798 z"
+           id="path8024"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccc" />
+        <circle
+           r="10.629921"
+           cy="620.73328"
+           cx="381.04953"
+           id="circle8026"
            style="fill:#000000;fill-opacity:1;stroke:#c7c7c7;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       </g>
     </g>
